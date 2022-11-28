@@ -7,3 +7,15 @@ body {
 main {
     flex: 1 0 auto;
 }
+
+.card {
+    height:560px;
+}
+
+.btn-floating {
+    z-index: 4 !important;
+}
+
+.card-image a {
+    bottom : 30px !important;
+}
