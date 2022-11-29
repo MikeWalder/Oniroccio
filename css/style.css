@@ -2,6 +2,7 @@ body {
     display: flex;
     min-height: 100vh !important;
     flex-direction: column;
+    min-height: 100vh !important;
 }
 
 main {
@@ -18,4 +19,8 @@ main {
 
 .card-image a {
     bottom : 30px !important;
+}
+
+.card-opacity {
+    background-color: rgba(51, 210, 51, 0.7) !important;
 }

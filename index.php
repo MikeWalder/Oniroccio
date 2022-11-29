@@ -1,17 +1,6 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <!--Import Google Icon Font-->
-        <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-        <!--Import materialize.css-->
-        <link type="text/css" rel="stylesheet" href="css/materialize.min.css"  media="screen,projection"/>
-        <link type="text/css" rel="stylesheet" href="css/style.css" media="screen,projection"/>
-        <title>Oniroccio</title>
-        <!--Let browser know website is optimized for mobile-->
-        <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    </head>
+<?php include('parts/header.php'); ?>
     <body>
-        <?= include('parts/navbar.php'); ?>
+        <?php include('parts/navbar.php'); ?>
         <main id="main">
             <!-- Main content of our page -->
             <div class="row">
@@ -23,7 +12,7 @@
                     <div class="card large">
                         <div class="card-image">
                             <img src="content/images/justinien.jpg" alt="Justinien 1er">
-                            <span class="card-title flow-text">Justinien 1er</span>
+                            <span class="card-title card-opacity flow-text">Justinien 1er</span>
                             <a href="" class="btn-floating btn-large halfway-fab waves-effect waves-light indigo darken-1"><i class="material-icons">add</i></a>
                         </div>
                         <div class="card-content">
@@ -35,7 +24,7 @@
                     <div class="card large">
                         <div class="card-image" >
                             <img src="content/images/basile2.jpg" alt="Basile 2">
-                            <span class="card-title flow-text">Basile 2</span>
+                            <h4 class="card-title flow-text text-bold">Basile 2</h4>
                             <a href="" class="btn-floating btn-large halfway-fab waves-effect waves-light indigo darken-1" style="overflow: visible"><i class="material-icons" style="overflow: visible">add</i></a>
                         </div>
                         <div class="card-content">
@@ -63,8 +52,4 @@
             
         </main>
 
-        <?= include('parts/footer.php'); ?>
-        <!--JavaScript at end of body for optimized loading-->
-        <script type="text/javascript" src="js/materialize.min.js"></script>
-    </body>
-</html>
+    <?= include('parts/footer.php'); ?>
