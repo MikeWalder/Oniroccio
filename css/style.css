@@ -9,6 +9,14 @@ main {
     flex: 1 0 auto;
 }
 
+#mainTitle {
+    text-align: center !important;
+    margin: 0 auto !important;
+    font-family: 'Brush Script MT', cursive !important;
+    font-size: 1.8em !important;
+}
+
+/* index.php page */
 .card {
     height:560px;
 }
@@ -17,10 +25,32 @@ main {
     z-index: 4 !important;
 }
 
-.card-image a {
+/* .card-image a {
     bottom : 30px !important;
-}
+} */
 
 .card-opacity {
-    background-color: rgba(51, 210, 51, 0.7) !important;
+    background-color: rgba(48, 63, 169, 0.7) !important;
+    transition: all 0.4s ease-in-out !important;
+}
+
+.card-image:hover .card-opacity {
+    background-color: rgba(48, 63, 169, 0.9) !important;
+}
+
+.card-image span {
+    font-size: 1.8em !important;
+}
+
+.card-image img {
+    transition: all 0.4s ease-in-out !important;
+}
+
+.card-image:hover img, .card-image:hover a, .card-image:hover a i {
+    transform: scale(1.1);
+}
+
+.brand-logo img {
+    height: 35px !important;
+    width: 35px !important;
 }

@@ -24,7 +24,7 @@
                     <div class="card large">
                         <div class="card-image" >
                             <img src="content/images/basile2.jpg" alt="Basile 2">
-                            <h4 class="card-title flow-text text-bold">Basile 2</h4>
+                            <span class="card-title card-opacity flow-text text-bold">Basile 2</span>
                             <a href="" class="btn-floating btn-large halfway-fab waves-effect waves-light indigo darken-1" style="overflow: visible"><i class="material-icons" style="overflow: visible">add</i></a>
                         </div>
                         <div class="card-content">
@@ -36,7 +36,7 @@
                     <div class="card large">
                         <div class="card-image">
                             <img src="content/images/alexis1er.jpg" alt="Alexis 1er Comnène">
-                            <span class="card-title flow-text">Alexis 1er Comnène</span>
+                            <span class="card-title card-opacity flow-text">Alexis 1er Comnène</span>
                             <a href="" class="btn-floating btn-large halfway-fab waves-effect waves-light indigo darken-1">
                                 <i class="material-icons">add</i>
                             </a>
@@ -52,4 +52,4 @@
             
         </main>
 
-    <?= include('parts/footer.php'); ?>
+    <?php include('parts/footer.php'); ?>
