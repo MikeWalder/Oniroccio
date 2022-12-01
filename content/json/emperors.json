@@ -1,0 +1,161 @@
+{
+    "data":[
+       {
+        "id":"1",
+        "emperor":"Constantin 1er",
+        "dynasty":"Constantiniens",
+        "birth":"272",
+        "death":"337",
+        "begin_reign":"310",
+        "birthplace":"Naissus (Mésie)",
+        "deathplace":"Nicomédie (Bithynie)",
+        "desc":"",
+        "image":""
+       },
+       {
+        "id":"2",
+        "emperor":"Constance 2",
+        "dynasty":"Constantiniens",
+        "birth":"317",
+        "death":"361",
+        "begin_reign":"337",
+        "birthplace":"Sirmium (Mésie)",
+        "deathplace":"Mopsueste (Cilicie)",
+        "desc":"",
+        "image":""
+       },
+       {
+        "id":"3",
+        "emperor":"Julien",
+        "dynasty":"Constantiniens",
+        "birth":"331",
+        "death":"363",
+        "begin_reign":"361",
+        "birthplace":"Sirmium (Mésie)",
+        "deathplace":"Ctésiphon (Parthie)",
+        "desc":"",
+        "image":""
+       },
+       {
+        "id":"4",
+        "emperor":"Jovien",
+        "dynasty":"Constantiniens",
+        "birth":"331",
+        "death":"364",
+        "begin_reign":"363",
+        "birthplace":"Singidunum (Mésie)",
+        "deathplace":"Drépane (Bithynie)",
+        "desc":"",
+        "image":""
+       },
+       {
+        "id":"5",
+        "emperor":"Valens",
+        "dynasty":"Valentiniens",
+        "birth":"328",
+        "death":"378",
+        "begin_reign":"364",
+        "birthplace":"Cibales (Pannonie)",
+        "deathplace":"Andrinople (Thrace)",
+        "desc":"",
+        "image":""
+       },
+       {
+        "id":"6",
+        "emperor":"Théodose 1er",
+        "dynasty":"Théodosiens",
+        "birth":"347",
+        "death":"395",
+        "begin_reign":"379",
+        "birthplace":"Cauca (Hispanie)",
+        "deathplace":"Milan (Italie)",
+        "desc":"",
+        "image":""
+       },
+       {
+        "id":"7",
+        "emperor":"Arcadius",
+        "dynasty":"Théodosiens",
+        "birth":"377",
+        "death":"408",
+        "begin_reign":"395",
+        "birthplace":"Hispanie",
+        "deathplace":" - ",
+        "desc":"",
+        "image":""
+       },
+       {
+        "id":"8",
+        "emperor":"Théodose 2",
+        "dynasty":"Théodosiens",
+        "birth":"401",
+        "death":"450",
+        "begin_reign":"408",
+        "birthplace":" - ",
+        "deathplace":" - ",
+        "desc":"",
+        "image":""
+       },
+       {
+        "id":"9",
+        "emperor":"Marcien",
+        "dynasty":"Théodosiens",
+        "birth":"396",
+        "death":"457",
+        "begin_reign":"450",
+        "birthplace":"Thrace ou Illyrie",
+        "deathplace":" - ",
+        "desc":"",
+        "image":""
+       },
+       {
+        "id":"10",
+        "emperor":"Léon 1er",
+        "dynasty":"Thrace",
+        "birth":"401",
+        "death":"474",
+        "begin_reign":"457",
+        "birthplace":"Thrace",
+        "deathplace":" - ",
+        "desc":"",
+        "image":""
+       },
+       {
+        "id":"11",
+        "emperor":"Léon 2",
+        "dynasty":"Thrace",
+        "birth":"467",
+        "death":"474",
+        "begin_reign":"474",
+        "birthplace":"Thrace",
+        "deathplace":" - ",
+        "desc":"",
+        "image":""
+       },
+       {
+        "id":"12",
+        "emperor":"Zénon",
+        "dynasty":"Thrace",
+        "birth":"425",
+        "death":"491",
+        "begin_reign":"474",
+        "birthplace":"Isaurie",
+        "deathplace":"Constantinople",
+        "desc":"",
+        "image":""
+       },
+       {
+        "id":"13",
+        "emperor":"Anastase 1er",
+        "dynasty":"Thrace",
+        "birth":"430",
+        "death":"518",
+        "begin_reign":"491",
+        "birthplace":"Epire",
+        "deathplace":"Constantinople",
+        "desc":"",
+        "image":""
+       }
+    ]
+ }  
+ 
