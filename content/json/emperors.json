@@ -155,7 +155,79 @@
         "deathplace":"Constantinople",
         "desc":"",
         "image":""
-       }
+       },
+       {
+         "id":"14",
+         "emperor":"Justin 1er",
+         "dynasty":"Justiniens",
+         "birth":"450",
+         "death":"527",
+         "begin_reign":"518",
+         "birthplace":"Nis",
+         "deathplace":"Constantinople",
+         "desc":"",
+         "image":""
+        },
+        {
+         "id":"15",
+         "emperor":"Justinien 1er",
+         "dynasty":"Justiniens",
+         "birth":"482",
+         "death":"565",
+         "begin_reign":"527",
+         "birthplace":"Tauresium",
+         "deathplace":"Constantinople",
+         "desc":"",
+         "image":""
+        },
+        {
+         "id":"16",
+         "emperor":"Justin 2",
+         "dynasty":"Justiniens",
+         "birth":"520",
+         "death":"578",
+         "begin_reign":"565",
+         "birthplace":"Constantinople",
+         "deathplace":"Constantinople",
+         "desc":"",
+         "image":""
+        },
+        {
+         "id":"17",
+         "emperor":"Tibère 2 Constantin",
+         "dynasty":"Justiniens",
+         "birth":"535",
+         "death":"582",
+         "begin_reign":"578",
+         "birthplace":"Thrace",
+         "deathplace":"Constantinople",
+         "desc":"",
+         "image":""
+        },
+        {
+         "id":"18",
+         "emperor":"Maurice",
+         "dynasty":"Justiniens",
+         "birth":"539",
+         "death":"602",
+         "begin_reign":"582",
+         "birthplace":"Arabissus (Cappadoce)",
+         "deathplace":"Constantinople",
+         "desc":"",
+         "image":""
+        },
+        {
+         "id":"19",
+         "emperor":"Phocas",
+         "dynasty":"Justiniens",
+         "birth":"547",
+         "death":"610",
+         "begin_reign":"602",
+         "birthplace":"",
+         "deathplace":"Constantinople",
+         "desc":"",
+         "image":""
+        }
     ]
  }  
  
