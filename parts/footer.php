@@ -23,6 +23,7 @@
                 </div>
             </div>
         </footer>
+        <script type="text/javascript" src="js/index_json.js"></script>
         <script type="text/javascript" src="js/materialize.min.js"></script>
     </body>
 </html>
