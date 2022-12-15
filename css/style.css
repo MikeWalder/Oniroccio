@@ -21,6 +21,11 @@ main {
     height:560px;
 }
 
+.card-content {
+    padding: 10px !important;
+    margin: 0 !important;
+}
+
 .btn-floating {
     z-index: 4 !important;
 }
@@ -53,4 +58,8 @@ main {
 .brand-logo img {
     height: 35px !important;
     width: 35px !important;
+}
+
+.separator {
+    border-right: 2px solid black !important;
 }

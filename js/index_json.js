@@ -48,6 +48,15 @@ function dispose_informations(datas){
         card_content = create_elements('div', 'card-content');
         card_large.appendChild(card_content);
 
+        row_card_content = create_elements('div', 'row');
+        card_content.appendChild(row_card_content);
+
+        left_col_card_content = create_elements('div', 'col s6 separator')
+        left_col_card_content.innerHTML = `Birth : ${element.birth} - ${element.birthplace}<br>
+            Death : ${element.death} - ${element.deathplace}<br><br>
+            `;
+        row_card_content.appendChild(left_col_card_content);
+
         card_content_text = create_elements('p', 'flow-text');
         card_content_text.innerHTML = element.desc;
         card_content.appendChild(card_content_text);

@@ -3,11 +3,11 @@
         <?php include('parts/navbar.php'); ?>
         <main id="main">
             <!-- Main content of our page -->
-            <div class="row">
+            <!-- <div class="row">
                 <a class="btn-small">Button</a>
-            </div>
+            </div> -->
 
-            <div class="row">
+            <!-- <div class="row">
                 <div class="col s6 m4">
                     <div class="card large">
                         <div class="card-image">
@@ -42,13 +42,21 @@
                             </a>
                         </div>
                         <div class="card-content">
+                            <div class="row">
+                                <div class="col s6 separator">
+                                    Dynastie : Comnène
+                                </div>
+                                <div class="col s6">
+                                    Règne : 1105 - 1134
+                                </div>
+                            </div>
                             <p class="flow-text">Alexis Comnene the first 2 was a Byzantine emperor from the 13th century. 
                                 He tried to reform the empire despite the arab attacks and won some successes.
                             </p>
                         </div>
                     </div>
                 </div>
-            </div>
+            </div> -->
             
         </main>
 
